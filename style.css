@@ -44,7 +44,6 @@ p {
 }
 
 article {
-    display: flex;
     background: #cccccc;
     padding: 5px;
     margin: 15px;
@@ -52,7 +51,7 @@ article {
 }
 
 section {
-    
+    display: flex;
 }
 
 img {
