@@ -30,6 +30,7 @@ p {
 .blog-post-text {
     display: flex;
     margin: 15px;
+    flex-grow: 1;
 }
 
 .about-me {
