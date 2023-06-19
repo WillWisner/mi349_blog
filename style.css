@@ -27,23 +27,15 @@ p {
     border-top: 3px solid #ccc;
 }
 
-.blog-post-text1 {
-    display: flex;
+.blog-post-text {
     margin: 15px;
     gap: 20px;
     border-radius: 20px;
 }
 
-.blog-post-text2 {
-    display: flex;
-    margin: 15px;
-    gap: 20px;
-    border-radius: 20px;
-}
 
 .about-me {
     border-top: 3px solid #ccc;
-    display: flex;
     border-radius: 20px;
 }
 
@@ -55,6 +47,10 @@ p {
 article {
     padding: 20px;
     background: #cccccc
+}
+
+section {
+    display: flex;
 }
 
 img {
