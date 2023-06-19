@@ -29,7 +29,6 @@ p {
 
 .blog-post-text {
     display: flex;
-    padding: 20px;
 }
 
 .about-me {
@@ -38,4 +37,8 @@ p {
 
 .contact-me {
     border-top: 3px solid #ccc;
+}
+
+article {
+    padding: 20px;
 }
