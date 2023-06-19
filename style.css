@@ -51,6 +51,7 @@ article {
 
 section {
     display: flex;
+    border-radius: 20px;
 }
 
 img {
