@@ -54,7 +54,7 @@ section {
     display: flex;
 }
 
-.sticky {
+div.sticky {
     position: sticky;
     top: 0;
 }
