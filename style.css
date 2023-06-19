@@ -33,7 +33,6 @@ p {
     border-radius: 20px;
 }
 
-
 .about-me {
     border-top: 3px solid #ccc;
     border-radius: 20px;
@@ -45,6 +44,7 @@ p {
 }
 
 article {
+    display: flex;
     background: #cccccc;
     padding: 5px;
     margin: 15px;
@@ -52,7 +52,7 @@ article {
 }
 
 section {
-    display: flex;
+    
 }
 
 img {
