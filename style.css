@@ -46,3 +46,7 @@ article {
     padding: 20px;
     background: #bbbbbb
 }
+
+img {
+    background-position: center;
+}
