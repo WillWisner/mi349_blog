@@ -46,11 +46,12 @@ p {
 
 article {
     padding: 10px;
-    background: #cccccc
+    margin: 20px;
 }
 
 section {
     display: flex;
+    background: #cccccc;
 }
 
 img {
