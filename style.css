@@ -29,6 +29,7 @@ p {
 
 .blog-post-text {
     display: flex;
+    margin: 20px;
 }
 
 .about-me {
