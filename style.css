@@ -51,6 +51,7 @@ article {
 
 section {
     display: flex;
+    margin: 20px;
 }
 
 img {
