@@ -54,7 +54,9 @@ section {
     display: flex;
 }
 
-div.sticky {
+.sticky {
     position: sticky;
     top: 0;
+    background: #cccccc;
+    border-radius: 20px;
 }
