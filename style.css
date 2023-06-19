@@ -20,9 +20,9 @@ p {
 }
 
 #blog {
-    border-top: 3px dotted #ccc;
+    border-top: 3px solid
 }
 
 .blog-post {
-    border-bottom: 3px dotted #ccc;
+    border-bottom: 3px solid #ccc;
 }
