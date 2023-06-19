@@ -53,6 +53,7 @@ article {
 section {
     display: flex;
     background: #cccccc;
+    border-radius: 20px;
 }
 
 img {
