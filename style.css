@@ -45,13 +45,12 @@ p {
 }
 
 article {
-    padding: 20px;
+    padding: 10px;
     background: #cccccc
 }
 
 section {
     display: flex;
-    margin: 20px;
 }
 
 img {
