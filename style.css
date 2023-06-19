@@ -27,7 +27,7 @@ p {
     border-top: 3px solid #ccc;
 }
 
-div.blog-post-text {
+.blog-post-text {
     margin: 15px;
     gap: 20px;
     border-radius: 20px;
@@ -51,7 +51,6 @@ article {
 
 section {
     display: flex;
-    border-radius: 20px;
 }
 
 img {
