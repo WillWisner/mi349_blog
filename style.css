@@ -28,6 +28,10 @@ p {
     border-bottom: 3px solid #ccc;
 }
 
-article {
+.blog-post-text {
     display: flex;
+}
+
+article {
+    
 }
