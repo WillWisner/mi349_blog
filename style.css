@@ -33,6 +33,7 @@ p {
 
 .about-me {
     border-top: 3px solid #ccc;
+    display: flex;
 }
 
 .contact-me {
