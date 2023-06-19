@@ -27,3 +27,7 @@ p {
     border-top: 3px solid #ccc;
     border-bottom: 3px solid #ccc;
 }
+
+section {
+    display: flex;
+}
