@@ -37,10 +37,12 @@ p {
 .about-me {
     border-top: 3px solid #ccc;
     display: flex;
+    border-radius: 20px;
 }
 
 .contact-me {
     border-top: 3px solid #ccc;
+    border-radius: 20px;
 }
 
 article {
