@@ -25,13 +25,12 @@ p {
 
 .blog-post {
     border-top: 3px solid #ccc;
-
 }
 
 .blog-post-text {
     display: flex;
 }
 
-article {
-    
+.about-me {
+    border-top: 3px solid #ccc;
 }
