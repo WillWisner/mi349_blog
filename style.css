@@ -31,12 +31,14 @@ p {
     display: flex;
     margin: 15px;
     gap: 20px;
+    border-radius: 20px;
 }
 
 .blog-post-text2 {
     display: flex;
     margin: 15px;
     gap: 20px;
+    border-radius: 20px;
 }
 
 .about-me {
@@ -53,7 +55,6 @@ p {
 article {
     padding: 20px;
     background: #cccccc
-    border-radius: 20px;
 }
 
 img {
