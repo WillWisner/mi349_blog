@@ -48,8 +48,16 @@ p {
 article {
     padding: 20px;
     background: #cccccc
+    display: flex;
+    margin: 15px;
+    gap: 20px;
+    border-radius: 20px;
 }
 
 img {
     position: center;
+}
+
+section {
+    display: flex;
 }
